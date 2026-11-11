@@ -10,6 +10,7 @@ A reusable set of fill-in templates for the three core QA documents: **Test Stra
 | [templates/02-test-plan.md](templates/02-test-plan.md) | What, when, who and when are we done for one release | Once per release |
 | [templates/03-test-design.md](templates/03-test-design.md) | Requirements, partitions, decision table, test cases, traceability, bug report | Once per feature |
 | [templates/04-testing-techniques.md](templates/04-testing-techniques.md) | Reference: equivalence partitioning, boundary values, decision tables, state transition, pairwise, etc. | While designing cases |
+| [templates/05-bug-report-jira.md](templates/05-bug-report-jira.md) | Jira bug ticket: fields, summary rules, description in wiki markup and Markdown, filled example, checklist | Every time you log a defect |
 
 ## How to use
 
